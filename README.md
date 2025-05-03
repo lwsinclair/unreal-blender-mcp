@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tahooki-unreal-blender-mcp-badge.png)](https://mseep.ai/app/tahooki-unreal-blender-mcp)
+
 # Unreal-Blender MCP
 
 Unreal-Blender MCP is a unified server for controlling both Blender and Unreal Engine via AI agents using the MCP (Machine Control Protocol) approach.
